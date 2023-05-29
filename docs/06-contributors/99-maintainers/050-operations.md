@@ -18,7 +18,6 @@ User-facing projects and their supporting contributor pieces:
 - Wing CLI
   - https://github.com/winglang/wing
 - Wing Console
-  - https://github.com/winglang/console
 - [Playground](https://play.winglang.io)
   - https://github.com/winglang/playground
 - [NPM Packages](https://www.npmjs.com/~monabot) (https://www.npmjs.com/package/winglang and https://www.npmjs.com/package/@winglang/sdk)
